@@ -43,9 +43,3 @@ Power BI was used to transform raw data into meaningful insights, providing a be
 - Power BI  
 - Data Visualization  
 - Data Analysis
-
-Feel free to explore the repository and contribute if you have suggestions for improvements or new insights.
-
-## Hashtags
-
-#PowerBI #DataAnalytics #CustomerChurn #DataVisualization #BusinessIntelligence
